@@ -10,7 +10,7 @@ I guide and teach students.
 **Database** — MySQL · Firebase 
 **AI/ML** — TensorFlow.js · Python ML libraries 
 
- **Fun Facts**:
+ ## Fun Facts
  - I have a cat.
  - Breaking Bad, Better Call Saul, and Arcane are my favorite series. Dune, Oppenheimer, and Spider-man: Across the SpiderVerse are my favorite movies. 
  - **Hobbies**: Coding, Badminton, Cinema
