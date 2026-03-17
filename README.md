@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**DawoodBuilds/DawoodBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Dawood](https://dawood-profile.vercel.app), a software engineer based in Pakistan.
+I build things that solve real problems for real people.
+I guide and teach students. 
 
-Here are some ideas to get you started:
+## Stack
+**Frontend** — Next.js · React · TypeScript · Tailwind · Framer Motion · Vite  
+**Backend** — Python · FastAPI  
+**Database** — MySQL · Firebase 
+**AI/ML** — TensorFlow.js · Python ML libraries 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Fun Facts**:
+
+ - I have a cat.
+ - Breaking Bad, Better Call Saul, and Arcane are my favorite series. Dune, Oppenheimer, and Spider-man: Across the SpiderVerse are my favorite movies. 
+ - **Hobbies**: Coding, Badminton, Cinema
