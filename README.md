@@ -1,4 +1,4 @@
-# Hi there 👋
+**Hi**
 
 I'm [Dawood](https://dawood-profile.vercel.app), a software engineer based in Pakistan.
 I build things that solve real problems for real people.
